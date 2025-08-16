@@ -1,5 +1,5 @@
 game_version=5
 launcher_version=102
-launcher_checksum=2c675cb926b80bf852179054f3ef8ad6b0e8199fe8544a9e43af0d045f93edf2
-launcher_size=809472
+launcher_checksum=37bffecd6f6589a570a4e494b0434029a6710f49ca462ae4e61ba0ce8b38f5ee
+launcher_size=7392768
 update_servers=1
