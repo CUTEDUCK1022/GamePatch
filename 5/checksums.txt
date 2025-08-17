@@ -1,4 +1,0 @@
-data036.CUTE																													16621685		16122384		A8EACAAC	fddc24136e433814a6e1d2207ddf05fceb2da8240262de5d87b2887d9e785a41
-data157.CUTE																													40632677		39704471		E1C32A12	3be92d30fdc25a59202601d591b3c4b54581d9060fb462e23316f93ffa9f8266
-data158.CUTE																													2377882			2351112			DD39B990	66fa28c634b8236ea59a1fd0c091894c78e9d7fad2743b1b7eee0a9b10f2d17e
-X2.exe																															21577728		7638057			03FA14D9	ad78beddefa8426e7f4285feb0c6749ad8160ea1ffa8759c9aa2828a0024ab49
