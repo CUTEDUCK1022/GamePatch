@@ -1,1 +1,6 @@
-data036.cute																													18671892		18110672		07AFB6E6	de5c820c35073554cce82e6210bce20715b2a06babcb389fbc4abb78e61a158a
+1DELLOG.bat																														25				45				4E601240	f5f469275150d810e593adc523abd9489134261aa4ef536cf8a7c7ef978d2db5
+data034.CUTE																													2851385			2701541			6206D075	3d12b47427f883b3665dac87ea2d47cfba4b5c17c0fcd22c3f18903ca75694a8
+data036.cute																													18684521		18123707		653BBC3D	8bd95520f4355636e5039bd8c07b81aff10ce712bed3b1c8499f4ce31c4475cc
+data037.CUTE																													13432817		12838635		76CB1F00	8f9f9fa86bc72faee882bf7c3728b204e118a7053a6c8eba7bcb4a623ccc2d42
+datai003.cute																													18485369		17713622		49E7FD97	df03b91a8c77f49e72f9af7424621a5e677c2f4b14af107b59c73cbc227118f7
+X2.exe																															21722624		7679222			1F6CD038	c357c36cf4d65de1428127ebcf24be591f0969d30b640beab9797f2741c0bbe4
