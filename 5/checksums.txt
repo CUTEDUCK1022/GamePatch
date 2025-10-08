@@ -3,7 +3,7 @@ data034.CUTE																													3267994			3104185			5C16AD02	c0c6249f48
 data036.CUTE																													19188164		18625809		D909D444	f47ce9ce7b56905e88eec8a38303b6e21f4d660ee2ecccc911dfdcf268cc19f9
 data037.CUTE																													13432817		12838635		76CB1F00	8f9f9fa86bc72faee882bf7c3728b204e118a7053a6c8eba7bcb4a623ccc2d42
 data056.CUTE																													8086604			7942129			54FAFD44	cae8483de92dbdec15f88e852880ef608a022932749a1b9a50c9e804b832eacb
-data057.cute																													88900412		88246303		7ED22EEE	510eda8f570d8ade4abb390daab10fbe7a45053782b2da5826c874720b151e09
+data057.cute																													89488697		88829653		34A75B9F	d647ff24cedab1b510078a66ffe027402907f7aef330e42eecff71a05f8081e9
 data169.cute																													33231694		33137646		45C6C66C	a369ec0fc419f6a2dfacffa1bd1e94875ea42a91749301f949ac18a8a1278f37
 datai003.cute																													20352506		19568377		B16D6CCB	0ba244b76545900f57fa0cba96a5e6a7da5d72b7d352c85c68a120a350ce72ad
 General.ess																														4193410			1666749			FEB422AE	82faac2701cb78aa9cbf18363ccadb8a4251b5e593cac6b954bff1b8003e4d11
