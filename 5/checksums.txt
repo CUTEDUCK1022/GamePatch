@@ -4,12 +4,6 @@ data036.CUTE																													19351681		18788173		A991DACC	b869db3e08
 data037.CUTE																													13432817		12838635		76CB1F00	8f9f9fa86bc72faee882bf7c3728b204e118a7053a6c8eba7bcb4a623ccc2d42
 data040.CUTE																													2983708			2699095			B3F12CC7	d05c8fe401dd339551e191a91ba94209e5f156207752208c6fb8f4531caf4ea4
 data056.CUTE																													29425239		29117456		8B293DC7	5c05cbe2e6a9a9d5cebb0d6d2533f02ae937244d0b34f294100a1d70239e3332
-data057.cute																													80210408		79617490		E94A8BA9	225d21cbe32ae801690b0e27fdf3539b27f664a4a3f7ca24aef76aa2f67374fd
-data169.cute																													33231694		33137646		45C6C66C	a369ec0fc419f6a2dfacffa1bd1e94875ea42a91749301f949ac18a8a1278f37
-data188.cute																													72523611		72387686		732C071B	80ed6ecd9c25cd733315829e525d49de0e1833bb0a7e5f6dad8a865bddf763bf
-data189.cute																													83487724		83376923		2B8BE4B1	55d2a6f371358dde8e510f37296e61dcd60e053a1f1e0d8bbc51295e7b38eddd
-data190.cute																													91424843		90082080		74E8D9FB	00ecff29066b3be91291912aee94a887e242e8b28fd802eb44978bc4398d57a8
-data191.cute																													66302688		65358402		40EADDC7	cd1a49e8f3ce7a01f3af62e77408a87b97457da2d581cf2e8a41c15d8459c87d
 datai003.cute																													25822066		24879157		D9F36914	7f90db7efad8d4d25ca7de5575c74ba2810ae59a2418c07902adef9324bf6d09
 General.ess																														4193410			1666749			FEB422AE	82faac2701cb78aa9cbf18363ccadb8a4251b5e593cac6b954bff1b8003e4d11
 X2.exe																															22561280		7784345			BAA885B6	7a358bb52b5ae101e9dde1e989ae678745b71efbd42c690ad2ac447be26f3ffc
