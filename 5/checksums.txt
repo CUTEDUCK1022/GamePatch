@@ -1,12 +1,1 @@
-1DELLOG.bat																														25				45				4E601240	f5f469275150d810e593adc523abd9489134261aa4ef536cf8a7c7ef978d2db5
-data034.CUTE																													1688408			1549300			4E6CAD3F	f0adba9a7315216e2364a6e5b55d4b7b5b65bb9ea8c731ae1fe8321409c9d9ce
-data035.CUTE																													937557			782696			F69A91D6	e16b17ee8bb395d2315328871d1bdea658a8d9dd219f5b067a4c408b7a193c68
-data036.CUTE																													19424066		18869404		4DF9EAD7	e5dc6a960349559423a7d761cfb9addad91c0209d42ddc06963572f89a119c89
-data037.CUTE																													13433196		12838952		9A689A26	20b149c89ca396f07cd0e9ba6fb924dc73ff49241837256ae31a206a5cca6610
-data040.CUTE																													2986050			2705518			848EFD10	d585319ebf829fb306d8d2466600a330817863e929080e07567ca810da123c31
-data056.CUTE																													33084716		32736078		C2396CD4	af8d62484795424380205a8dfa5949eaf15bed2d1cf293d5aa555700b853afe3
-data174.cute																													37210022		36868970		8BFCD05D	8ff32dee6994b4da2a28d8a6c9ad56501431cf0124c9b5c82b2ba253dbf00d2d
-data175.cute																													24352296		24277642		30BAA7C2	dc362f9c0e9eca2d97452600183dd29d238ff3d9f8d5d44503980f2e260dc0e8
-datai003.cute																													86093703		83195409		CA757610	14de2906b3adfcaca52d6262f0ea3523cc41f8fe89c3d593c8619f05bb7a1b6a
-General.ess																														4193410			1666749			FEB422AE	82faac2701cb78aa9cbf18363ccadb8a4251b5e593cac6b954bff1b8003e4d11
-X2.exe																															22536192		7795062			5E8F47FA	ee9b258e15344ddd3f7a81f3d5597fa2760b9a910a697c1a496d576e4db7792b
+X2.exe																															18170368		7069161			6ACBFE28	85f3699c5418ee6a2bb046bdddddd3c4ff373e2a992601954cb4742c8b5ea144
