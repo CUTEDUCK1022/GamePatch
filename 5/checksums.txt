@@ -1,8 +1,1 @@
-data034.CUTE																													1767841			1648006			881ED88B	9a6844af6b75560e7956fc90044f2c695ddf09182f9cf82ee7a7ff2d15a9b7fc
-data035.CUTE																													943062			906351			EA1A05A5	3c45d321e9f4792efd0cdcf1dcf2ec3369ab8d1288bd8fbb2051f81dd86f465e
-data036.CUTE																													22602610		22570050		1DDC9852	f7331ab54efd9d828fc9de7d7ec1dcc0a72a07b602462288bd8fe3c176e06307
-data037.CUTE																													13800143		13492381		5983CA2E	dcb90e9f78541e3e97004a41a09b7edc6e88ff824f962c143f0a7f48f9efd66c
-data040.CUTE																													2991903			2826634			73F6541B	0522c0055e5507cc93e9d8c458e781349df13ae76dff1371371e86b737a5185b
-datai003.cute																													48842936		47570632		901DBAD9	ef25a4e7842190f0569b8da989dc99b0825108f2f15400fae000afeed2606fef
-datai009.CUTE																													31093049		30861897		17582F03	ccde7eb6c9398b8ed83dd55687d1f41499eb1b3db2a832fed5558ba7322dd056
-X2.exe																															18472448		7172228			F50B94A6	69dce0300ebedc35ecf8b6a4d51c939ea4f53ddcc1b5fe37bab51228e6c7c86f
+X2.exe																															18475008		7171596			82342358	3eebdab2e92697cb40781d32012b4efff54735f816aa47b1b1d656117f1ae066
